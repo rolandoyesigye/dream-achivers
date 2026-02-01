@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" fill="none">
+  <defs>
+    <linearGradient id="logoGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#e15706;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0284c7;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Building structure -->
+  <rect x="60" y="80" width="35" height="90" fill="url(#logoGradient)" rx="2"/>
+  <rect x="105" y="60" width="35" height="110" fill="url(#logoGradient)" rx="2"/>
+  
+  <!-- Windows -->
+  <rect x="68" y="90" width="8" height="10" fill="white" opacity="0.9"/>
+  <rect x="79" y="90" width="8" height="10" fill="white" opacity="0.9"/>
+  <rect x="68" y="105" width="8" height="10" fill="white" opacity="0.9"/>
+  <rect x="79" y="105" width="8" height="10" fill="white" opacity="0.9"/>
+  <rect x="68" y="120" width="8" height="10" fill="white" opacity="0.9"/>
+  <rect x="79" y="120" width="8" height="10" fill="white" opacity="0.9"/>
+  <rect x="68" y="135" width="8" height="10" fill="white" opacity="0.9"/>
+  <rect x="79" y="135" width="8" height="10" fill="white" opacity="0.9"/>
+  <rect x="68" y="150" width="8" height="10" fill="white" opacity="0.9"/>
+  <rect x="79" y="150" width="8" height="10" fill="white" opacity="0.9"/>
+  
+  <rect x="113" y="70" width="8" height="10" fill="white" opacity="0.9"/>
+  <rect x="124" y="70" width="8" height="10" fill="white" opacity="0.9"/>
+  <rect x="113" y="85" width="8" height="10" fill="white" opacity="0.9"/>
+  <rect x="124" y="85" width="8" height="10" fill="white" opacity="0.9"/>
+  <rect x="113" y="100" width="8" height="10" fill="white" opacity="0.9"/>
+  <rect x="124" y="100" width="8" height="10" fill="white" opacity="0.9"/>
+  <rect x="113" y="115" width="8" height="10" fill="white" opacity="0.9"/>
+  <rect x="124" y="115" width="8" height="10" fill="white" opacity="0.9"/>
+  <rect x="113" y="130" width="8" height="10" fill="white" opacity="0.9"/>
+  <rect x="124" y="130" width="8" height="10" fill="white" opacity="0.9"/>
+  <rect x="113" y="145" width="8" height="10" fill="white" opacity="0.9"/>
+  <rect x="124" y="145" width="8" height="10" fill="white" opacity="0.9"/>
+  
+  <!-- Achievement star -->
+  <circle cx="100" cy="40" r="18" fill="#fdecd3"/>
+  <path d="M100 28 L103 37 L112 37 L105 43 L108 52 L100 46 L92 52 L95 43 L88 37 L97 37 Z" fill="url(#logoGradient)"/>
+  
+  <!-- Base -->
+  <rect x="55" y="170" width="90" height="5" fill="url(#logoGradient)" rx="1"/>
+</svg>
